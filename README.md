@@ -1,2 +1,2 @@
 # convertlab
-ConvertLab: a unit converter for engineers (HTML, CS, JavaScript)
+ConvertLab: a unit converter for engineers (HTML, CSS, JavaScript)
